@@ -47,3 +47,6 @@
 /robots.txt
 /update.php
 /web.config
+sites/*/settings*.php
+sites/*/files
+config
